@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+dvs_config.json
+*.log
+dvs_verify.jsonl
+blog-post.md
+FAN_SPEED_UNITS_PLAN.md
+sweep2.csv
+.pytest_cache/
